@@ -64,6 +64,9 @@
 ![История коммитов](assets/BD.png)
 История коммитов от @milanapornyakova-net
 
+
+![История коммитов](assets/commits_history_arch.png)
+История коммитов от @Sasha010142
 ---
 
 ## 6. Скриншоты созданных Pull Request и процесса ревью
@@ -73,6 +76,10 @@
 
 ![Список Pull Request](assets/PR_BD.png)
 Список Pull Request от @milanapornyakova-net
+
+
+![Список Pull Request](assets/pull_request_arch.png)
+Список Pull Request от @Sasha010142
 
 ---
 
