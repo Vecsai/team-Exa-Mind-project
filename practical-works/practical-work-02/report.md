@@ -67,6 +67,9 @@
 
 ![История коммитов](assets/commits_history_arch.png)
 История коммитов от @Sasha010142
+
+![История коммитов](assets/un756OFQFWqNrNBg6-dJnJFzSKKwvI6LCsiwxFKvx8LAV6KBb39gNKgClyFb6uvpVQshWgJnkvEKhStW8vA5eRdZ.jpg)
+История коммитов от @Danil-Popkov
 ---
 
 ## 6. Скриншоты созданных Pull Request и процесса ревью
@@ -81,6 +84,9 @@
 ![Список Pull Request](assets/pull_request_arch.png)
 Список Pull Request от @Sasha010142
 
+
+![Список Pull Request](assets/image.png)
+Список Pull Request от @Danil-Popkov
 ---
 
 ## 7. Вывод
